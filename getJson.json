@@ -1,0 +1,71 @@
+{
+  "status": 1000,
+  "info": "Catalpabear的Github表情包仓库",
+  "data": [
+    {
+      "name": "吃瓜.gif",
+      "category": "MyGIF_开心的居天子",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/吃瓜.gif"
+    },
+    {
+      "name": "啦啦啦啦.gif",
+      "category": "MyGIF_快乐向日葵of植物大战僵尸",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/啦啦啦啦.gif"
+    },
+    {
+      "name": "猫猫虫打击.gif",
+      "category": "MyGIF_可爱",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/猫猫虫打击.gif"
+    },
+    {
+      "name": "你是笨蛋.jpg",
+      "category": "MyGIF_可爱",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/你是笨蛋.jpg"
+    },
+    {
+      "name": "呜呜呜呜呜.gif",
+      "category": "MyGIF_悲伤的真红",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/呜呜呜呜呜.gif"
+    },
+    {
+      "name": "喝茶.gif",
+      "category": "MyGIF_开心的真红",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/喝茶.gif"
+    },
+    {
+      "name": "装傻.jpg",
+      "category": "MyGIF_可爱",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/装傻.jpg"
+    },
+    {
+      "name": "冰西瓜打击.gif",
+      "category": "MyGIF_冰西瓜of植物大战僵尸",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/冰西瓜打击.gif"
+    },
+    {
+      "name": "唉唉悲伤.gif",
+      "category": "MyGIF_悲伤的真红",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/唉唉悲伤.gif"
+    },
+    {
+      "name": "嘻嘻嘻嘻嘻嘻嘻嘻嘻.gif",
+      "category": "MyGIF_黄豆",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/嘻嘻嘻嘻嘻嘻嘻嘻嘻.gif"
+    },
+    {
+      "name": "加油-祝福.gif",
+      "category": "MyGIF_福福睦子米",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/加油-祝福.gif"
+    },
+    {
+      "name": "啊怎么这样.gif",
+      "category": "MyGIF_吃惊真红",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/啊怎么这样.gif"
+    },
+    {
+      "name": "对的对的.gif",
+      "category": "MyGIF_赞许的猫猫",
+      "url": "https://raw.githubusercontent.com/Catalpabear/MyGIF/main/对的对的.gif"
+    }
+  ]
+}
